@@ -1,0 +1,33 @@
+[submodule "colorschemes/start/awesome-vim-colorschemes"]
+	path = colorschemes/start/awesome-vim-colorschemes
+	url = git@github.com:rafi/awesome-vim-colorschemes.git
+[submodule "colorschemes/start/vim-airline"]
+	path = colorschemes/start/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "colorschemes/start/vim-airline-themes"]
+	path = colorschemes/start/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
+[submodule "development/start/ale"]
+	path = development/start/ale
+	url = git@github.com:dense-analysis/ale.git
+[submodule "development/start/coc.nvim"]
+	path = development/start/coc.nvim
+	url = git@github.com:neoclide/coc.nvim.git
+[submodule "development/start/rainbow"]
+	path = development/start/rainbow
+	url = git@github.com:luochen1990/rainbow.git
+[submodule "development/start/vim-polyglot"]
+	path = development/start/vim-polyglot
+	url = git@github.com:sheerun/vim-polyglot.git
+[submodule "development/start/vim-hexokinase"]
+	path = development/start/vim-hexokinase
+	url = git@github.com:RRethy/vim-hexokinase.git
+[submodule "rust/start/rust.vim"]
+	path = rust/start/rust.vim
+	url = git@github.com:rust-lang/rust.vim.git
+[submodule "csharp/start/vim-csharp"]
+	path = csharp/start/vim-csharp
+	url = git@github.com:OrangeT/vim-csharp.git
+[submodule "csharp/start/vim-razor"]
+	path = csharp/start/vim-razor
+	url = git@github.com:jlcrochet/vim-razor.git
