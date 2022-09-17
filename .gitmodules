@@ -31,3 +31,6 @@
 [submodule "csharp/start/vim-razor"]
 	path = csharp/start/vim-razor
 	url = git@github.com:jlcrochet/vim-razor.git
+[submodule "csharp/start/omnisharp-vim"]
+	path = csharp/start/omnisharp-vim
+	url = git://github.com/OmniSharp/omnisharp-vim
